@@ -1,2 +1,2 @@
-# Sci-tech_methods_course
-Methods of sci-tech forecast course from RTU MIREA (spring 2024)
+# Ingenious_data_analysis_methods_course
+"Ingenious" data analysis methods course from RTU MIREA (spring 2024)
